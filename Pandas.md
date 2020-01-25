@@ -1,4 +1,5 @@
-Pandas
+# Pandas
+
 Pandas is a Python library to deal with sequential and tabular data. It includes many tools to manage, analyze and manipulate data in a convenient and efficient manner. We can think of its data structures as akin to database tables or spreadsheets.
 
 Pandas is built on top of the Numpy library and has two primary data structures viz. Series (1-dimensional) and DataFrame (2- dimensional). It can handle both homogeneous and heterogeneous data, and some of its many capabilities are:
@@ -13,10 +14,12 @@ Pandas is built on top of the Numpy library and has two primary data structures 
 
 In the Python ecosystem, Pandas is the best choice to retrieve, manipulate,analyze and transform financial data.
 
-Pandas Installation
+# Pandas Installation
+
 pip install pandas
 
-Pandas works on
+#  Pandas works on
+
 Pandas for Homogeneous (1-Dimension) and Hetrogeneous(2-Dimension) Tabular method.
 
 • Indexes and labels. 
@@ -35,7 +38,7 @@ Pandas for Homogeneous (1-Dimension) and Hetrogeneous(2-Dimension) Tabular metho
 
 • Connectors for multiple data file formats, such as, csv, xlsx, hdf5, etc.
 
-Pandas Series
+# Pandas Series
 
 Series homogeneous one-dimensional objects, that is, all data are of the same type and are implicitly labeled with an index.
 
